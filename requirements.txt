@@ -22,3 +22,4 @@ scikit_learn == 0.24.2
 # movies/main.py: 3
 # movies/movies.py: 3
 streamlit == 1.9.2
+protobuf~=3.19.0
