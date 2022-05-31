@@ -31,7 +31,7 @@ def recommend_mmovies(Movie):
 
     return recommended_movie_names       
 
-st.title('Movie Recommedation System')
+st.title('Movie Recommedation System Demo')
 st.subheader('By Krishna Bakshi - www.linkedin.com/in/krishnabakshi')
 movie_list = final['title'].values
 selected_movie = st.selectbox(
